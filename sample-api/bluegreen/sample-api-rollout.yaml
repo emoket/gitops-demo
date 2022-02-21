@@ -18,7 +18,7 @@ spec:
       containers:
       - name: sample-api
         # image: saturn203/sample-api
-        image: nginx
+        image: nginx:latest
         ports:
         - name: http
           containerPort: 80

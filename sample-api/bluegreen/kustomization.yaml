@@ -8,8 +8,8 @@ resources:
 - ingress-preview-sample-api.yaml
 - ingress-sample-api.yaml
 
-images:
+# images:
 # - name: saturn203/sample-api
-- name: nginx
+# - name: nginx
   # newTag: RB0.0.9
-  newTag: latest
+  # newTag: latest
